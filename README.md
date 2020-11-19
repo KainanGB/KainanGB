@@ -8,9 +8,8 @@
 - ⚡ Looking to collaborate  on some cool stuff.   
 - 💻 My stack: HTML, CSS e JavaScript.   
 - 📘 Learning: ReactJS e Node.js.    
-- 💬 About me: i like pizza.   
 - ⚡ Fun fact: My first line of code was not "Hello World!"
-- 🥅 2020 Goals: Get an internship
+- 🥅 2020 Goals: Get an internship/ Got it!.
 
 - 📫 kainanytbr@gmail.com    
 
