@@ -7,7 +7,7 @@
 - 🚀 Looking for a big challenge.   
 - ⚡ Looking to collaborate  on some cool stuff.   
 - 💻 My stack: HTML, CSS e JavaScript.   
-- 📘 Learning: ReactJS e Node.js.    
+- 📘 Learning: ReactJS & Styled Components,    
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 - 🥅 2020 Goals: Get an internship/ Got it!.
 
@@ -17,7 +17,6 @@
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
