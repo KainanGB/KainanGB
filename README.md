@@ -8,8 +8,7 @@
 - ⚡ Looking to collaborate  on some cool stuff.   
 - 💻 My stack: HTML, CSS e JavaScript.   
 - 📘 Learning: ReactJS & Styled Components,    
-- ⚡ Fun fact: My first line of code was not "Hello World!"
-- 🥅 2020 Goals: Get an internship/ Got it!.
+
 
 - 📫 kainanytbr@gmail.com    
 
