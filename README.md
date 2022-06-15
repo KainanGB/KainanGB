@@ -2,11 +2,11 @@
 
 💻🌟 Seeking to be a FullStack Developer 🌟💻 
 
-<img align="right" height="200" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
 
 - 🚀 Looking for a big challenge.   
 - ⚡ Looking to collaborate  on some cool stuff.   
-- 💻 My stack: HTML, CSS e JavaScript.   
+- 💻 My stack: HTML, CSS e JavaScript & React.   
 - 📘 Learning: ReactJS & Styled Components,    
 
 
