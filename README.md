@@ -1,6 +1,6 @@
 ### Hi there, I'm Kainan! 👋 <code><img height="20" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg"></code>
 
-💻🌟 Seeking to be a FullStack Developer 🌟💻 
+💻🌟Front End Developer 🌟💻 
 
 
 
