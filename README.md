@@ -22,7 +22,8 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=kainangb&show_icons=true&theme=vision-friendly-dark" alt="kainan's stats" height="33px"/>
+ 
 </div>
 <p align="center">
  
