@@ -21,16 +21,12 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-<div align="right">
+<div align="center">
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=kainangb&show_icons=true&theme=vision-friendly-dark" alt="kainan's stats"/>
- 
 </div>
-<p align="center">
- 
  <a href="https://www.linkedin.com/in/kainangabriel/" target="blank">
   <img align="center" alt="Twitter" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
   <br/>
   <br/>
   Thanks for stopping by 😁<br/>
-</p>
