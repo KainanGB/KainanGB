@@ -23,7 +23,4 @@
 
 <div align="left">
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=kainangb&show_icons=true&theme=vision-friendly-dark" alt="kainan's stats"/>
-
 </div>
-
-<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div>
