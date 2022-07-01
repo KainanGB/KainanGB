@@ -23,5 +23,5 @@
 
 <div align="center">
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=kainangb&show_icons=true&theme=vision-friendly-dark" alt="kainan's stats"/>
- 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KainanGB&layout=compact)](https://github.com/KainanGB/github-readme-stats)
 </div>
